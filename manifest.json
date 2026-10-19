@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-lsp",
+  "repo": "python-lsp-jsonrpc",
+  "versions": [
+    {
+      "commit": "a96d764d29cc17fbda52264e529f0803cda07fd8",
+      "parsed_at": "2026-10-19T11:12:12.478211+00:00",
+      "filetree": "filetree/a96d764d29cc17fbda52264e529f0803cda07fd8.nq.gz",
+      "blobs": [
+        "blob/3371a20559d38dc073f4721b20bd09c3e436101e.nq.gz",
+        "blob/03e10f94cdedfb156eef49151a1291afa12a688e.nq.gz",
+        "blob/56a66375716a5814265641404c004e35911ac856.nq.gz",
+        "blob/37848896aa0c0601c9aa722fc781776228772552.nq.gz",
+        "blob/ed70640d2693aa8e43a42cc8ebd54801bdf93658.nq.gz",
+        "blob/933ff6a4f7f3344e80f9f2877d72eec588b26151.nq.gz",
+        "blob/13fe9e1d593619e4010a0529cb2d94ce197669da.nq.gz",
+        "blob/db5f20e90ac6cc89cbd7b867d1b8f78c58727ef7.nq.gz",
+        "blob/a089f1ba032cf9278866e8cf1881b75506218e98.nq.gz",
+        "blob/95df41c147f824b507238d26a529081b17656aa9.nq.gz",
+        "blob/40048a9a26d20e4214a5c9187efa6f6102707699.nq.gz",
+        "blob/0c9e62a30578a1f7d3f617e8542cac61f4c3af8b.nq.gz",
+        "blob/a1ddc8fe8263c8f7a7d33dd59a840cb912c1d412.nq.gz",
+        "blob/a0fcbce3c7bd280f82b2a3bbf02891c9b63b6ccd.nq.gz",
+        "blob/e0c9525ad8f3ea1dea49ef26e2cb87e12f149921.nq.gz",
+        "blob/08fb62da96e76146897332ca9155d7ade7e6167a.nq.gz",
+        "blob/ef4135507e5c1f56922f1102bad79908b6bd4414.nq.gz",
+        "blob/14fe1bb8fedcb6133094c67a04e29cb46e7514c7.nq.gz",
+        "blob/846c70fd606933c1c6cbf372008954d7153feb65.nq.gz",
+        "blob/03314c630bafedce6a81a9d641845e76b21dd5d1.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/1430490f097b60db802c00ae82bad4bdd0d37671.nq.gz",
+        "blob/6811279944f9381268992fedce7e77e6627c82e1.nq.gz",
+        "blob/6dc565b96af324bb98c420c60a1b396b8dad6588.nq.gz",
+        "blob/376785c779721bfd8f307cb3f30ea6e9a74523e0.nq.gz",
+        "blob/729e41355a050e1c8f9c7b09a2f8a91ebfad8ad6.nq.gz",
+        "blob/45bc81ae8ce520668e45b2b5966e3791c351d4b8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
