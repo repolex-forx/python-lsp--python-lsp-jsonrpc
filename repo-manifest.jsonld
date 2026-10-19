@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-lsp/python-lsp-jsonrpc/commit/a96d764d29cc17fbda52264e529f0803cda07fd8",
       "git:hexsha": "a96d764d29cc17fbda52264e529f0803cda07fd8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-lsp/python-lsp-jsonrpc/commit/8b11ffd5f30722596612abd550e14646c8ee1c63",
